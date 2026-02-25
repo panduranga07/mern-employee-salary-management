@@ -20,7 +20,7 @@ function Login() {
             </span>
             <p className="text-black dark:text-white 2xl:px-20">
               I am commiting the change
-              <br /> but not knowing anything
+              <br /> but not knowing anything.
             </p>
             <img className="mt-15 inline-block" src={LoginImg} alt="Logo" />
           </div>
